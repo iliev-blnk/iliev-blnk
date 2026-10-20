@@ -8,6 +8,7 @@ Data and forecasting:
 
 Libraries and pages:
 
+- [parlo](https://github.com/iliev-blnk/parlo): live captions and translation for talks, fully offline. The projector shows captions, phones follow in Romanian, Russian or English. whisper.cpp and M2M100, [benchmarked](https://github.com/iliev-blnk/parlo#benchmark) on FLEURS.
 - [pagepad](https://github.com/iliev-blnk/pagepad): scan a QR code and your phone becomes a remote for any web page. On [npm](https://www.npmjs.com/package/pagepad), with a [live demo](https://pagepad-demo.pagepad.workers.dev).
 - [pagereel](https://github.com/iliev-blnk/pagereel): web pages to video, frame by frame, identical every time. On [npm](https://www.npmjs.com/package/pagereel), with a [gallery](https://iliev-blnk.github.io/pagereel/).
 - [ink](https://github.com/iliev-blnk/ink): ink in water, drawn in characters. The homepage of my [portfolio](https://ilyushavb.pages.dev).
