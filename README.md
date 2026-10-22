@@ -1,10 +1,11 @@
 Full-stack developer in Chișinău. Portfolio and CV: [ilyushavb.pages.dev](https://ilyushavb.pages.dev).
 
-Data and forecasting:
+Data and models:
 
 - [holdshort](https://github.com/iliev-blnk/holdshort): Istanbul Airport rebuilt from open ADS-B data. Rust ingest and rules engine, a [browser replay](https://holdshort.pages.dev), landing-time forecasts and approach anomaly detection. [Technical write-up](https://holdshort.pages.dev/writeup).
 - [grid.md](https://github.com/iliev-blnk/grid.md): Moldova's electricity load forecast for tomorrow, [published every morning](https://iliev-blnk.github.io/grid.md/) and scored against the grid operator's own plan.
 - [cutline](https://github.com/iliev-blnk/cutline): the 2026-27 Champions League [simulated 10,000 times](https://iliev-blnk.github.io/cutline/) after every matchday.
+- [tally](https://github.com/iliev-blnk/tally): a street counter that runs in the browser. It finds and follows cars, bikes and people on your GPU (ONNX Runtime Web, WebGPU), counts them crossing a line, and [scores itself](https://github.com/iliev-blnk/tally#how-accurate) against hand-labelled footage. [Try it](https://iliev-blnk.github.io/tally/).
 
 Libraries and pages:
 
